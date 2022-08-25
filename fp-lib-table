@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "1043")(type "KiCad")(uri "${KIPRJMOD}/1043/1043.pretty")(options "")(descr ""))
+  (lib (name "S-82M1A")(type "KiCad")(uri "${KIPRJMOD}/S-82M1A/S-82M1A.pretty")(options "")(descr ""))
+)

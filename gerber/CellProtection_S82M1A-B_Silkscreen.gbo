@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
+%TF.CreationDate,2022-08-26T02:07:21+09:00*%
+%TF.ProjectId,CellProtection_S82M1A,43656c6c-5072-46f7-9465-6374696f6e5f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-08-26 02:07:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.120000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,BT1*%
+X105941050Y-102200000D02*
+G75*
+G03*
+X105941050Y-102200000I-381000J0D01*
+G01*
+%TD*%
+M02*
